@@ -1,1 +1,1 @@
-# sales-order
+Buat sebuah file bernama "Assets" pada root folder
