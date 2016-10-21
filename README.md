@@ -1,1 +1,1 @@
-Buat sebuah file bernama "Assets" pada root folder
+Buat sebuah file bernama "assets" pada root folder
